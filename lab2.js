@@ -11,6 +11,7 @@ for (let i = 0; i < 3; i++) {
 // Thêm thuộc tính điểm và in ra
 const student = {
     name: "ThuyTien",
+    grade: "A",
     age: 20,
 };
 student.age = 21,
@@ -20,3 +21,5 @@ student.age = 21,
 // 1. Thêm thuộc tính grade với giá trị "A"
 // 2. Thay đổi tuổi thành 21
 // 3. In ra toàn bộ thông tin student
+
+// tao templeace
